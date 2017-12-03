@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background: orange;
+}
+
+.navbar {
+  background-color: blue;
+}
+
+.jumbotron-connect {
+  margin-bottom: 150px;
+}
+
+#header-tag {
+  color: white;
+  margin-left: 10%;
+}
+
+
+h1, h2, h3{
+  color: blue;
+}
+
+hr {color: blue !important; background-color: blue !important; border-color: blue !important;
+}
+
+.submit-button {
+  background: blue;
+  color: white;
+  float: right;
+}
+
+.rounded-circle {
+  margin-top: 5%;
+}
+
+.message-box {
+  height: 200px;
+}
+
+.jumbotron-portfolio {
+  margin-bottom: 100px;
+}
+
+.pictures {
+  height: 200px;
+  width: 100%;
+}
+
+.footer {
+  text: white;
+  background: blue;
+  padding: 7px;
+}
